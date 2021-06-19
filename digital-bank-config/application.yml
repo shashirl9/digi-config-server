@@ -14,3 +14,7 @@ eureka:
 spring:
     zipkin:
       base-url: http://192.168.99.100:9411/
+      
+logging:
+  file:
+    name: D:\\2021\\Intelli_COMM\\Shashir\\GIT_REPO\\ZZZ_DIGIBANK_LOG\\shashir-digital-bank-application.log
